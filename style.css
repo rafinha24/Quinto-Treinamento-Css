@@ -9,7 +9,7 @@
 }
 /* -----BODY-----*/
 body{
-    background: url("/img/download\ \(2\).png");
+    background: url("./img/download\ \(2\).png");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
